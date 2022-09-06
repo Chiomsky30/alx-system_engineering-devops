@@ -1,1 +1,1 @@
-Delete the file betty
+rm -f /tmp/my_first_directory
